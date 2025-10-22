@@ -1,0 +1,2 @@
+
+const char * sourse_dir = "${CMAKE_SOURCE_DIR}";
